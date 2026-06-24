@@ -30,7 +30,7 @@ The layout automatically adjusts from a single column on mobile to multiple colu
 
 ## Screenshot
 
-![Blog Listing Page](screenshot.png)
+![Blog Listing Page](./screenshot.png)
 
 ---
 
